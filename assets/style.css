@@ -59,9 +59,9 @@ html{
 }
 
 #nav-up{
-    height: 75px;
+    /* height: 75px; */
     width: 100%;
-    background-color: rgb(115, 123, 156) !important;
+    background-color: rgb(154, 71, 0) !important;
 }
 
 #my-name{
