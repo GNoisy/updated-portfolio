@@ -58,11 +58,18 @@ html{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.nav{
-    position: relative;
+#nav-up{
     height: 75px;
     width: 100%;
-    background-color: rgb(115, 123, 156);
+    background-color: rgb(115, 123, 156) !important;
+}
+
+#my-name{
+    font-size: 30px !important;
+}
+
+.button-border{
+    border: red;
 }
 
 .name{
