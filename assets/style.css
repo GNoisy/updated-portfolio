@@ -102,19 +102,19 @@ html{
 }
 
 #wrap-port{
-    min-height: 700px;
+    min-height: 750px;
 }
 
 #wrap-ind{
     min-height: 800px !important;
 }
 
-#abt-me-txt{
+#abt-me-txt, #port-txt, #con-txt{
     color: rgb(154, 71, 0) !important;
 }
 
 #bio-image {
-    height: 40%;
+    height: auto;
     width: auto;
 }
 
