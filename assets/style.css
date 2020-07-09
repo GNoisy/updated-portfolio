@@ -116,6 +116,27 @@ html{
     ;
 }
 
+#port {
+    margin-bottom: 25px;
+    /* padding-left: 15px; */
+    position: relative;
+}
+
+.photoPort {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    background-color: rgb(61, 177, 198);
+    z-index: 2;
+    top: 60%;
+    padding-top: 15px;
+    color: rgb(255, 255, 255);
+}
+
 #foot-text{
     font-weight: 500 !important;
 }
